@@ -1,0 +1,23 @@
+Student ID: C1
+Course: Object Oriented Programming
+Instructor: Prof.Umer Iqbal
+Schedule: Monday, Wednesday, Friday 10:00 AM - 11:30 AM
+Room: Room no 19
+
+Student ID: C1
+Course: HCI
+Instructor: Mam.Sahar Ajmal
+Schedule: Tuesday, Thursday 1:00 PM - 2:30 PM
+Room: Room no 17
+
+Student ID: C1
+Course: LA
+Instructor: Prof. Amjad Hussain
+Schedule: Wednesday, Thursday 8:45 PM - 10:10 PM
+Room: Fsm Room no 3
+
+Student ID: C1
+Course: Sre
+Instructor: Prof. Sajjid Anwar
+Schedule: Monday, Thursday 8:45 PM - 10:10 PM
+Room: Room no 1

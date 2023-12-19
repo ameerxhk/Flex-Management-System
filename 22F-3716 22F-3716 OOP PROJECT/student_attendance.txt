@@ -1,0 +1,4 @@
+Student ID: E1, Course: OOP, Date: 2-9-8976, Attendance: Present
+Student ID: E1, Course: Isl, Date: 5-4-3213, Attendance: Present
+Student ID: E1, Course: P.std, Date: 2-3-9866, Attendance: Present
+Student ID: E1, Course: Sre, Date: 2-1-3210, Attendance: Present

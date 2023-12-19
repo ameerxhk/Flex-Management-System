@@ -1,0 +1,10 @@
+Teacher ID: 
+Timetable:
+Day 1: Date: 9-7-2987, Lecture: OOP
+Day 2: Date: 2-9-8971, Lecture: lA
+Day 3: Date: 2-9-1098, Lecture: SRE
+Day 4: Date: 2-9-7890, Lecture: Hci
+Day 5: Date: 2-18-2098, Lecture: Isl
+Day 6: Date: 2-8-7631, Lecture: Math
+Day 7: Date: 2-9-8765, Lecture: Pak.std
+
